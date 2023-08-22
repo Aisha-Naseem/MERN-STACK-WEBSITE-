@@ -1,0 +1,28 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.3",
+    "nodemon": "^3.0.1",
+    "path-browserify": "^1.0.1",
+    "querystring-es3": "^0.2.1",
+    "react-bootstrap": "^2.8.0",
+    "router": "^1.3.8",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.1",
+    "util": "^0.12.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "ecom-website-2023",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
